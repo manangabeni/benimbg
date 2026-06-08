@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349582514364",
+    "project_id": "benimbg-dfc8b",
+    "storage_bucket": "benimbg-dfc8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349582514364:android:aa3f71875e25ff9e1bd8b9",
+        "android_client_info": {
+          "package_name": "com.bmg.cegra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChc_dPRxVp2kNo3HcOfSr40gQ6FIKtjy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349582514364:android:8abcf6c2e13b97c11bd8b9",
+        "android_client_info": {
+          "package_name": "com.mbg.cegra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChc_dPRxVp2kNo3HcOfSr40gQ6FIKtjy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
